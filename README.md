@@ -52,5 +52,5 @@ No other external templates, code snippets, or icon packs were used.
 Running locally
 
 Clone the repository:
-git clone https://github.com/MrWick109r/Portfolio-Website
+git clone https://mrwick109r.github.io/mrwick109r.github.oi/
 Open the folder and open index.html directly in your browser — no build step or server required.
